@@ -2,13 +2,13 @@
 
 👋 Hello! 👋
 
-This organization provides helpful resources as a companion to the [Wahl Network website](https://wahlnetwork.com/) and [YouTube channel](https://www.youtube.com/@Wahlnetwork). It is managed and maintained by [Chris Wahl](https://www.linkedin.com/in/wahlchris/). This is a [safe, welcoming place](COC.md) in which all participants are treated with respect and dignity.
+This organization provides helpful resources as a companion to the [Wahl Network website](https://wahlnetwork.com/) and [YouTube channel](https://www.youtube.com/@Wahlnetwork). It is managed and maintained by [Chris Wahl](https://www.linkedin.com/in/wahlchris/). This is a [safe, welcoming place](https://github.com/WahlNetwork/welcome/tree/main/COC.md) in which all participants are treated with respect and dignity.
 
 > Note: You can use the [example](https://github.com/search?q=topic%3Aexample+org%3AWahlNetwork&type=Repositories) topic to search for repositories containing example use cases and solutions.
 
 ## Resources
 
-When giving a presentation, I create a resource page for the audience to easily find links to helpful blog posts, videos, code samples, and more. Visit the [Resources](/resources) page for a full list.
+When giving a presentation, I create a resource page for the audience to easily find links to helpful blog posts, videos, code samples, and more. Visit the [Resources](https://github.com/WahlNetwork/welcome/tree/main/resources) page for a full list.
 
 ## Platforms
 
@@ -36,7 +36,7 @@ Contributions via GitHub pull requests are gladly accepted from their original a
 
 ### Code of Conduct
 
-All contributors are expected to abide by the [Code of Conduct](COC.md).
+All contributors are expected to abide by the [Code of Conduct](https://github.com/WahlNetwork/welcome/tree/main/COC.md).
 
 ### License
 
