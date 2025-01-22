@@ -2,7 +2,7 @@
 
 ![Wahl Network Logo](https://wahlnetwork.com/wp-content/uploads/2024/03/image-17.png)
 
-👋 **Hello, innovators!** Welcome to a hub built for technologists like you! Here, you'll find practical resources, code samples, and ideas to level up your skills. Think of this as your go-to companion for the [Wahl Network website](https://wahlnetwork.com/) and [YouTube channel](https://www.youtube.com/@Wahlnetwork), curated by [Chris Wahl](https://www.linkedin.com/in/wahlchris/).
+👋 **Hello, innovators!** Welcome to a hub built for technologists like you! Here, you'll find practical resources, code samples, and ideas to level up your skills. Think of this as your go-to companion for the [Wahl Network website](https://wahlnetwork.com/), [podcast](https://wahlnetwork.com/podcast/), and [YouTube channel](https://www.youtube.com/@Wahlnetwork), curated by [Chris Wahl](https://www.linkedin.com/in/wahlchris/).
 
 🎯 **Our Mission:**  
 Empower you to design, build, and automate modern platforms with clarity and confidence—all in a safe, inclusive space.
@@ -25,6 +25,7 @@ When a project completes its lifecycle, we preserve it as _Archived_ for histori
 Explore Wahl Network on multiple platforms for insights, tutorials, and updates:  
 
 ▶️ **[Website](https://wahlnetwork.com/)**  
+▶️ **[Podcast](https://wahlnetwork.com/podcast/)**  
 ▶️ **[YouTube Channel](https://www.youtube.com/@Wahlnetwork)**  
 ▶️ **[LinkedIn](https://www.linkedin.com/in/wahlchris/)**  
 ▶️ **[RSS Feed](https://wahlnetwork.com/feed/)**  
